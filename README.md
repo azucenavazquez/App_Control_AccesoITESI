@@ -1,6 +1,6 @@
 # employeeattendancewithqr
 
-Nuevo proyecto de flutter.... .
+Nuevo proyecto de flutter..
 
 ## Getting Started
 
