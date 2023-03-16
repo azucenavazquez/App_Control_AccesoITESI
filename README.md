@@ -1,10 +1,10 @@
 # employeeattendancewithqr
 
-A new Flutter project.
+Nuevo proyecto de flutter.... .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este proyecto de la aplicacion movil del control
 
 A few resources to get you started if this is your first Flutter project:
 
